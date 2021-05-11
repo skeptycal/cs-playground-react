@@ -9,7 +9,7 @@
     "feather-icons": "^4.5.0",
     "flow-typed": "^2.4.0",
     "jshint": "^2.9.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "loop-protect": "^2.1.6",
     "react": "16.2.0",
     "react-codemirror2": "^3.0.7",
