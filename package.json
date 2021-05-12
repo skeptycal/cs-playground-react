@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "babel-standalone": "^6.26.0",
-    "codemirror": "^5.31.0",
+    "codemirror": "^5.58.2",
     "feather-icons": "^4.5.0",
     "flow-typed": "^2.4.0",
     "jshint": "^2.9.5",
